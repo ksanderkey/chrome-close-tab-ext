@@ -1,0 +1,10 @@
+{
+  "name": "Close me",
+  "description": "Close tab via context menu",
+  "version": "0.1",
+  "permissions": ["tabs", "contextMenus"],
+  "background": {
+    "scripts": ["background.js"]
+  },
+  "manifest_version": 2
+}
